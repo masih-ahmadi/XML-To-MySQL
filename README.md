@@ -26,7 +26,7 @@ This PHP script processes XML data and inserts it into a MySQL database.
 
    ```bash
    git clone https://github.com/masih-ahmadi/xml-to-mysql.git
-
+2. upload xml.sql file from the Database folder into your database
 ## Usage
 1. Edit the config.php file to set your database connection details and XML file path.
 2. Run the PHP script:
